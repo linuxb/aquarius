@@ -1,0 +1,6 @@
+.idea/
+cmake-build-debug/
+main.cpp
+mojo.cc
+build/
+bin/
