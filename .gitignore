@@ -1,6 +1,5 @@
 .idea/
 cmake-build-debug/
-main.cpp
-mojo.cc
+run.pl
 build/
 bin/
